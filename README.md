@@ -15,9 +15,11 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 *Equal contribution
 †Corresponding author
 
-[[Paper]]()
+[[Paper]](https://arxiv.org/abs/2407.12709)
 
 :fire: Details will be released. Stay tuned :beers: :+1: 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiuTian-VL%2FMoME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 <br>
@@ -27,7 +29,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Updates
-- [07/2024] [Arxiv paper]() released.
+- [07/2024] [Arxiv paper](https://arxiv.org/abs/2407.12709) released.
 
 ## Introduction
 
@@ -64,5 +66,10 @@ Here we list the multitasking performance comparison of MoME and baselines. Plea
 
 If you find this work useful for your research, please kindly cite our paper:
 ```
-
+@article{shen2024mome,
+    title={MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models}, 
+    author={Shen, Leyang and Chen, Gongwei and Shao, Rui and Guan, Weili and Nie, Liqiang},
+    journal={arXiv preprint arXiv:2407.12709},
+    year={2024}
+}
 ```
