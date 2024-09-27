@@ -15,6 +15,8 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 *Equal contribution
 †Corresponding author
 
+The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+
 [[Paper]](https://arxiv.org/abs/2407.12709)
 
 :fire: Details will be released. Stay tuned :beers: :+1: 
@@ -29,6 +31,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Updates
+- [09/2024] MoME has been accepted by NeurIPS 2024!
 - [07/2024] [Arxiv paper](https://arxiv.org/abs/2407.12709) released.
 
 ## Introduction
