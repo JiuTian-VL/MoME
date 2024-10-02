@@ -15,9 +15,10 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 *Equal contribution
 †Corresponding author
 
-The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+[The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://neurips.cc/Conferences/2024)
 
 [[Paper]](https://arxiv.org/abs/2407.12709)
+[[Project Page]](https://www.slywiki.cn/mome/)
 
 :fire: Details will be released. Stay tuned :beers: :+1: 
 
@@ -31,6 +32,7 @@ The Thirty-eighth Annual Conference on Neural Information Processing Systems (Ne
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Updates
+- [09/2024] [Project page](https://www.slywiki.cn/mome/) released!
 - [09/2024] MoME has been accepted by NeurIPS 2024!
 - [07/2024] [Arxiv paper](https://arxiv.org/abs/2407.12709) released.
 
@@ -69,10 +71,10 @@ Here we list the multitasking performance comparison of MoME and baselines. Plea
 
 If you find this work useful for your research, please kindly cite our paper:
 ```
-@article{shen2024mome,
+@inproceedings{shen2024mome,
     title={MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models}, 
     author={Shen, Leyang and Chen, Gongwei and Shao, Rui and Guan, Weili and Nie, Liqiang},
-    journal={arXiv preprint arXiv:2407.12709},
+    booktitle={Advances in neural information processing systems},
     year={2024}
 }
 ```
